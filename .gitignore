@@ -1,0 +1,11 @@
+.vs/
+bin/
+obj/
+node_modules/
+*.log
+*.tmp
+*.user
+*.suo
+*.swp
+/out/
+/build/

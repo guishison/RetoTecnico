@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
-using TuProyecto.Models;
+using RetoTecnico.Models;
 
-namespace TuProyecto.DataBase
+namespace RetoTecnico.DataBase
 {
     public class AppDbContext : DbContext
     {

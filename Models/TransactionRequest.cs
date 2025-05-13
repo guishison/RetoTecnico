@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;
 
-namespace TuProyecto.Models
+namespace RetoTecnico.Models
 {
     public class TransactionRequest
     {

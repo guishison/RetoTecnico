@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "/K8eCHabC/QnNnqiKCHocYfHR2NaoZj7/AwYg4+ux0Y=",
+  "Hash": "HNMVXoDFF5PmeHu/A8qTEJggSzfMoAdrbdtlOmq71y4=",
   "Source": "RetoTecnico",
   "BasePath": "_content/RetoTecnico",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

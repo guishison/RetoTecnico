@@ -1,6 +1,11 @@
-﻿namespace RetoTecnico.Services
+﻿using System;
+using System.Threading.Tasks;
+using RetoTecnico.Models;
+
+namespace RetoTecnico.Services
 {
-    public class AntiFraudService
+    public interface IAntiFraudService
     {
+        Task<string> ValidateTransaction(Transaction transaction);
     }
 }
